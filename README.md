@@ -1,4 +1,4 @@
-IgnYte – Official Restaurant Website
+IgnYte – Restaurant Website
 - This project is a fully responsive, modern website developed for IgnYte, a real, premium dining establishment. The website is designed to showcase the restaurant’s atmosphere, cuisine, and services, while providing customers with intuitive access to essential information like menus, operating hours, and booking options.
 
 🎯 Project Objective
